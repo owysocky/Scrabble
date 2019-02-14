@@ -13,7 +13,7 @@ namespace theGame{
      Console.WriteLine("Enter a word: ");
      Word newWord = new Word();
      string userInput = Console.ReadLine();
-     double testNum = 0;
+     doubl testNum = 0;
      if(Double.TryParse(userInput, out testNum))
      {
        Console.WriteLine("I am sorry, I can't evaluate a number!");

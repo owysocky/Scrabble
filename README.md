@@ -12,7 +12,7 @@ _This is a program that calculates the scrabble score for the word the user inpu
 | :-------------     | :------------- | :------------- |
 | **Program evaluates if the input is a number** | User input: 1 | "I am sorry, I can't evaluate a number!" |
 | **Program evaluates if there is no input** | User input: "" | "I am sorry, you didn't eneter a word!" |
-| **Program counts each letter** | User input: "a" "beard" | Output: 1 |
+| **Program counts each letter** | User input: "beard" | Output: 8 |
 
 
 ## Known Bugs
